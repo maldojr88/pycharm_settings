@@ -1,8 +1,8 @@
 <scheme name="Vim dark" version="142" parent_scheme="Default">
-  <option name="EDITOR_FONT_SIZE" value="19" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -554,6 +554,18 @@
       <value>
         <option name="FOREGROUND" value="ffff0f" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="d9132c" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="d91a46" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.OPERATION_SIGN">
